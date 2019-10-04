@@ -5,7 +5,7 @@ Plugin Name: AssetsNinja
 Plugin URI: https://learnwith.yusuf.com
 Description: Assets Management In Depth
 Version: 1.0
-Author: yusuf
+Author: yusuf abedin
 Author URI: https://www.facebook.com/
 License: GPLv2 or later
 Text Domain: assetsninja
